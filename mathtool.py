@@ -1,4 +1,5 @@
 #Math multi-tool
+#Main purpose of this mini project was to learn about the def function and using it to combine previous projects into one
 import random as r
 #2D perimeter
 def perimeter():
@@ -116,4 +117,4 @@ while repeat == 'yes' or repeat == 'Yes':
         print("Make sure you haven't miss typed!")
         mode = input('Enter b for basic calculator, p for 2D perimeter, 2da for 2D area, 3da for 3D area or ng for number guessing game: ')
 
-#Thank you for lokking into my code 
+#Thank you for looking into my code 
